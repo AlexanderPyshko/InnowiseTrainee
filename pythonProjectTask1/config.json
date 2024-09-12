@@ -1,0 +1,8 @@
+
+{
+    "_comments": "Paths to json files with necessary data to load to the database.",
+    "paths": {
+        "rooms": "/Users/alexanderpyshko/InnowiseGroup/InnowiseTrainee/InnowiseTrainee/pythonProjectTask1/task1/files/rooms.json",
+        "students": "/Users/alexanderpyshko/InnowiseGroup/InnowiseTrainee/InnowiseTrainee/pythonProjectTask1/task1/files/students.json"
+    }
+}
