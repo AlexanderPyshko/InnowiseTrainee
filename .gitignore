@@ -288,3 +288,6 @@ pyrightconfig.json
 
 # Mac System Files
 .DS_Store
+
+#Jetbrain ebv folder
+.idea

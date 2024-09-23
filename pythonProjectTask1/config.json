@@ -1,8 +1,14 @@
-
 {
     "_comments": "Paths to json files with necessary data to load to the database.",
     "paths": {
         "rooms": "/Users/alexanderpyshko/InnowiseGroup/InnowiseTrainee/InnowiseTrainee/pythonProjectTask1/task1/files/rooms.json",
         "students": "/Users/alexanderpyshko/InnowiseGroup/InnowiseTrainee/InnowiseTrainee/pythonProjectTask1/task1/files/students.json"
+    },
+    "database": {
+        "host": "your_host",
+        "port": your_port,
+        "user": "your_username",
+        "password": "your_password",
+        "database": "your_database_name"
     }
 }
